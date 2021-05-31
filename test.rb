@@ -1,1 +1,1 @@
-
+puts "Birşeyler deniyorum"
